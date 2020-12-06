@@ -1,4 +1,4 @@
-# loan_support（）
+# loan_support（融資評価審査支援モデル）
 
 ## 実行環境
 - Python 3.6.9 (default, Jul 17 2020, 12:50:27
@@ -6,4 +6,4 @@
 
 ## LICENSE 
 
-MIT License (Copyright (c) [2020] [Yutaro Nakayama])
+MIT License - Copyright (c) 2020 Yutaro Nakayama
