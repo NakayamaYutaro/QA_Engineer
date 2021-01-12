@@ -1,4 +1,4 @@
-# QA_Engineer 
+# QA_Engineer （自分なりのまとめ）
 
 ## QAエンジニアとは
 QAは（Quality Assurance）の略称で、品質保証のこと。またQAエンジニアは、一般的に
