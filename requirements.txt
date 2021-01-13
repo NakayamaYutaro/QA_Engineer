@@ -1,0 +1,8 @@
+python3-xlib
+Image
+pillow
+pyscreeze
+PyTweening
+opencv_python
+pyautogui
+
