@@ -1,0 +1,4 @@
+/virtualenv/
+/log/
+/__pychache__/
+*.pyc/
