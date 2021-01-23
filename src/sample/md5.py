@@ -3,7 +3,7 @@
 #テストにテスト対象と同等実装を書かないこと
 import hashlib
 
-def calc_md5(content):
+def calc_md5(content: str) -> str:
   content = content.strip()
   m = hashlib.md5()
   m.update(content.encode('utf-8'))
